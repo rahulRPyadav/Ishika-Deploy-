@@ -3,4 +3,4 @@ export const API_BASE_URL = 'https://ishika-deploy.onrender.com';
 
 
 // Customer Website Frontend URL (Local vs Live)
-export const FRONTEND_URL = 'http://localhost:5174';
+export const FRONTEND_URL = 'https://ishika-deploy-1.onrender.com/';
